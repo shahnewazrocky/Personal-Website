@@ -1,0 +1,163 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.pink-highlight{
+    color: deeppink;
+
+}
+
+h1{
+    color: rgb(44, 50, 78);
+    font-weight: 800;
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+    line-height: 25px;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.p-tag{
+    color: gray;
+    line-height: 28px;
+    font-size: 14px;
+    padding-bottom: 25px;
+    font-weight: 300;
+
+}
+
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-right: 3%;
+    
+
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.half-width img{
+    width: 100%;
+    padding-top: 30px;
+}
+
+.top-banner{
+    background-image: url(Images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section{
+    height: 700px;
+}
+
+#hello-text{
+    padding-top: 120px;
+}
+
+.link{
+    padding: 10px 40px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, deeppink, rgb(255, 71, 132));
+}
+
+.biography-area{
+    background-image: url(Images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.biography{
+    padding-top: 200px;
+}
+
+.latest-area{
+    background-image:url(/Images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#work{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.work-area{
+    width:250px;
+    box-shadow: 1px 1px 25px gray;
+}
+
+.client-area{
+    background-image:url(Images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footer-area{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.latest-area-sec{
+    height: 300px;
+}
+
+h4{
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 1px;
+}
+
+h6{
+    font-size: 12px;
+    font-weight: 400;
+    color: rgb(161, 161, 161);
+}
+
+blockquote{
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 400;
+    color: rgb(66, 66, 66);
+}
+
+.footer-area-2{
+    background-image: linear-gradient(45deg, deeppink, rgb(247, 101, 145));
+    color: white;
+    padding: 30px 80px;
+    width: 480px;
+    height: 140px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 250px;
+    margin-top: 100px;
+    
+}
+
+#mail{
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 10px;
+    
+}
+
+
+p{
+    font-size: 13px;
+    text-align: center;
+    font-weight: 300;
+    padding: 10px 20px;
+}
